@@ -1,4 +1,4 @@
-#Wordpress Blog
+# Wordpress Blog
 
 This project is an example of a blog publishing articles related to the tech industry.
 
